@@ -1,0 +1,38 @@
+\contentsline {section}{\numberline {1}Summary}{3}{section.1}
+\contentsline {section}{\numberline {2}Voting categories}{3}{section.2}
+\contentsline {section}{\numberline {3}Designing a remote digital voting system}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Key features}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Technology}{4}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Blockchain network types}{4}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Zcash technology}{5}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Why Monero technology}{6}{subsubsection.3.2.3}
+\contentsline {subsection}{\numberline {3.3}Roles in the system}{6}{subsection.3.3}
+\contentsline {section}{\numberline {4}Proof of Concept}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}Demonstration}{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Mobile application}{7}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Administrator dashboard}{7}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Blockchain technology}{7}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}Before Voting Session}{7}{subsubsection.4.4.1}
+\contentsline {subsubsection}{\numberline {4.4.2}During Voting Session}{8}{subsubsection.4.4.2}
+\contentsline {subsubsection}{\numberline {4.4.3}End of Voting Session and results}{8}{subsubsection.4.4.3}
+\contentsline {section}{\numberline {5}Improvements}{9}{section.5}
+\contentsline {subsection}{\numberline {5.1}Block Reward}{9}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Vote Receivers publishing}{9}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Vote Receivers private keys custody}{9}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Consensus mechanism}{10}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Voting session termination}{10}{subsection.5.5}
+\contentsline {subsection}{\numberline {5.6}Blockchain freezing}{11}{subsection.5.6}
+\contentsline {subsection}{\numberline {5.7}Voter anonymity}{11}{subsection.5.7}
+\contentsline {subsubsection}{\numberline {5.7.1}Quality of decoys}{11}{subsubsection.5.7.1}
+\contentsline {subsection}{\numberline {5.8}Node communication improvement}{12}{subsection.5.8}
+\contentsline {subsection}{\numberline {5.9}Vote delegation}{12}{subsection.5.9}
+\contentsline {subsubsection}{\numberline {5.9.1}Different type of addresses}{12}{subsubsection.5.9.1}
+\contentsline {subsection}{\numberline {5.10}I2P-zero}{13}{subsection.5.10}
+\contentsline {subsection}{\numberline {5.11}Proof that Vote has been recorded correctly}{13}{subsection.5.11}
+\contentsline {subsubsection}{\numberline {5.11.1}Vote Invalidation}{13}{subsubsection.5.11.1}
+\contentsline {paragraph}{\numberline {5.11.1.1}Initial idea}{13}{paragraph.5.11.1.1}
+\contentsline {paragraph}{\numberline {5.11.1.2}Improved idea}{14}{paragraph.5.11.1.2}
+\contentsline {paragraph}{\numberline {5.11.1.3}Further steps}{15}{paragraph.5.11.1.3}
+\contentsline {subsubsection}{\numberline {5.11.2}Receipt-freeness}{15}{subsubsection.5.11.2}
+\contentsline {section}{\numberline {6}Conclusion}{15}{section.6}
+\contentsline {section}{\numberline {7}Credits}{16}{section.7}

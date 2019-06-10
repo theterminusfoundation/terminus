@@ -1,0 +1,66 @@
+\begin{thebibliography}{10}
+
+\bibitem{CCN:700M:11-Nov-2017:Online}
+CCN.
+\newblock 700 million stuck in 115,000 unconfirmed bitcoin transactions.
+\newblock
+  \url{https://www.ccn.com/700-million-stuck-115000-unconfirmed-bitcoin-transactions},
+  November 11, 2017.
+
+\bibitem{HackerNoon:CryptoKitties:15-Dec-2017:Online}
+Hacker Noon.
+\newblock How crypto-kitties disrupted the ethereum network.
+\newblock
+  \url{https://hackernoon.com/how-crypto-kitties-disrupted-the-ethereum-network-845c22aa1e6e},
+  December 15, 2017.
+
+\bibitem{LightningNetwork:Online}
+Bitcoin wiki.
+\newblock Lightning network.
+\newblock \url{https://en.bitcoin.it/wiki/Lightning_Network}, 2019.
+
+\bibitem{Tari:Online}
+Tari website.
+\newblock Tari - digital assets focused blockchain protocol.
+\newblock \url{https://www.tari.com}, 2019.
+
+\bibitem{ZcashCeremony:YouTube}
+Electric~Coin Company.
+\newblock Zcash ceremony.
+\newblock \url{https://www.youtube.com/watch?v=D6dY-3x3teM}, January 4, 2017.
+
+\bibitem{10.1007/978-3-540-71677-8_13}
+Eiichiro Fujisaki and Koutarou Suzuki.
+\newblock Traceable ring signature.
+\newblock In Tatsuaki Okamoto and Xiaoyun Wang, editors, {\em Public Key
+  Cryptography -- PKC 2007}, pages 181--200, Berlin, Heidelberg, 2007. Springer
+  Berlin Heidelberg.
+
+\bibitem{Monerujo:Online}
+m2049r.
+\newblock Monerujo: An android monero wallet https://www.monerujo.io/.
+\newblock \url{https://github.com/m2049r/xmrwallet}, 2019.
+
+\bibitem{OpenAlias:Online}
+OpenAlias website.
+\newblock Openalias.
+\newblock \url{https://openalias.org/}, 2019.
+
+\bibitem{8406559}
+A.~{Chator} and M.~{Green}.
+\newblock How to squeeze a crowd: Reducing bandwidth in mixing
+  cryptocurrencies.
+\newblock In {\em 2018 IEEE European Symposium on Security and Privacy
+  Workshops (EuroS PW)}, pages 40--49, April 2018.
+
+\bibitem{i2p-zero:Online}
+i2p zero.
+\newblock I2p-zero.
+\newblock \url{https://github.com/i2p-zero/i2p-zero/}, 2019.
+
+\bibitem{Dero:Online}
+Dero.
+\newblock Dero project.
+\newblock \url{https://dero.io/}, 2019.
+
+\end{thebibliography}

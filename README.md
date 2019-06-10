@@ -1,1 +1,1 @@
-# terminus
+# Terminus White Paper
